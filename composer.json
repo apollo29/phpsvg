@@ -1,5 +1,5 @@
 {
-    "name": "dat/phpsvg",
+    "name": "apollo29/phpsvg",
     "description": "phpsvg",
     "type": "library",
     "autoload": {

@@ -1,0 +1,20 @@
+{
+    "name": "dat/phpsvg",
+    "description": "phpsvg",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "ResultParser\\": "src/phpsvg/"
+        }
+    },
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thomas D'Ascoli",
+            "email": "thomas@dasco.li"
+        }
+    ]
+}
